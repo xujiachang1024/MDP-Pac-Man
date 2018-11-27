@@ -6,6 +6,10 @@ This project designs and implements Pac-Man strategies, whose decision-making pr
 ### Design Document
 <a href="https://github.com/xujiachang1024/MDP-Pac-Man/blob/master/mdpAgent_design.pdf">*Design of Pac-Man Strategies with Embedded Markov Decision Process in a Dynamic, Non-Deterministic, Fully Observable Environment*</a>
 
+### Style of Work
+* Coding style complies with industry standard
+* Design paper complies with IEEE Conference format
+
 ### How to run
 This version of Intelligent Pac-Man is running on <b>Python 2.7</b> environment. The visibility of the agent in this Pac-Man project is extremely limited, just like someone is running through the maze for real.<br/>
 Run the following command to play the game:<br/>
