@@ -1,4 +1,4 @@
-safety_distance, discount_factor, convergence_tolerance, normal_early_stopping_point, sparse_early_stopping_point, ghostbuster_mode, result, score
+safety_distance,discount_factor,convergence_tolerance,normal_early_stopping_point,sparse_early_stopping_point,ghostbuster_mode,result,score
 4, 1.0, 0.1, 100, 200, inactive, win, 1248.0
 4, 1.0, 0.1, 100, 200, offensive, lose, -434.0
 4, 1.0, 0.1, 100, 200, inactive, lose, 159.0
