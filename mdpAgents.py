@@ -492,7 +492,7 @@ class MDPAgent(Agent):
     @param debug_mode: (optional) a boolean value to indicate whether the debug mode is active; the default value is false
     @return the direction the agent decides to go (non-deterministic)
     """
-    def getAction(self, state, debug_mode=True, deep_debug_mode=False):
+    def getAction(self, state, debug_mode=False, deep_debug_mode=False):
         """mapping operation"""
         self.__mapping_operation(state, debug_mode=debug_mode)
         """value iteration"""
